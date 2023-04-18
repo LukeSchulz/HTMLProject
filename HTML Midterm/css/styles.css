@@ -1,0 +1,23 @@
+body {
+    margin: 5em;
+    border: 2px solid blue; }
+
+h1 {
+    margin-left: 1em;
+    border: 2px solid blue; 
+    }
+
+p {
+    border: 2px dashed red;
+    margin: 1em 1em 0em 1em;
+    float:left}
+
+img {
+    width: 300px;
+    float:right
+}
+
+
+aside {
+    float:right}
+    
